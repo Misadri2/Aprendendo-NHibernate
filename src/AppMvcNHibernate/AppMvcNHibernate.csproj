@@ -8,7 +8,10 @@
     <PackageReference Include="FluentNHibernate" Version="3.1.0" />
     <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="6.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.14" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.14" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.14" />
     <PackageReference Include="NHibernate" Version="5.3.12" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.116" />
   </ItemGroup>
 
 </Project>
